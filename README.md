@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...sp.singh@ncsu.edu or https://www.linkedin.com/in/sukhwinder-paul-singh-03935550/
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...The blob of toothpaste that sits on your toothbrush has a name.....it's called nurdle.
--->
+
