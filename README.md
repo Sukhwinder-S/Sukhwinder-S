@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Getting my CRISC Certification
-- 🌱 I’m currently learning ...on conducting risk assessments
+- 🌱 I’m currently conquering ...risk assessments
 - 👯 I’m looking to collaborate on ...PEN Testing & Vulnerability testing
 - 🤔 I’m looking for help with ...in depth knowlegde of Information Security
 - 💬 Ask me about ...anything about Triumph Motorcycles
